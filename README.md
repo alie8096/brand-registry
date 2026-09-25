@@ -29,8 +29,12 @@ Therefore:
 
 ## Collections
 
+
 - BME — personal BME identity logo archive
+  <img width="30px" height="30px" align="center" alt="BME-latest" src="https://raw.githubusercontent.com/alie8096/brand-registry/main/BME/latest/logo.png">
+  
 - ViraPy — shared ViraPy brand logo archive
+  <img width="30px" height="30px" align="center" alt="BME-latest" src="https://raw.githubusercontent.com/alie8096/brand-registry/main/ViraPy/latest/logo.png">
 
 See the LICENSE and COPYRIGHT files in the relevant collection
 and version directories.
